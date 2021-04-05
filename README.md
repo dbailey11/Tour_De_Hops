@@ -8,9 +8,10 @@ Final project for DU Coding Bootcamp
 - [Description](#description)
 - [User Story](#story)
 - [Business Context](#context)
+- [Heroku](#heroku)
 - [Images](#photos)
 - [Technologies Use](#technology)
-- [Contribution](#contribution)
+- [Collaborators](#collaborators)
 - [License](#license)
 
 ## Project Title
@@ -35,9 +36,11 @@ _User Story for this Project:_
 
 ## Heroku
 
+Click here for deployed Heroku link: https://enigmatic-gorge-69698.herokuapp.com/
+
 ## Photos
 
-_Photos of this Project:_
+![Image of employee tracker application](client/src/img/screenshot.png)
 
 ## Technologies
 
